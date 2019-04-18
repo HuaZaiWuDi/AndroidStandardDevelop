@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="632dbeb1-4955-4e9e-8a18-4933cd405e59" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="745381097">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Android-BLE-Library" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Android-TensorFlow-Lite-Example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Android-nRF-Toolbox" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../AndroidCharts" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../AndroidPicker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../AndroidUtilCode" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../AnyChart-Android" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Aria" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../BoomMenu" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../BottomNavigationViewEx" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Charter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../CloudReader" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../CosmoCalendar" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../DynamicAnimationExample" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../FastBle" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../FlycoTabLayout" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Highlight" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../MPAndroidChart" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../QMUI_Android" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../RxTool" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SmartRefreshLayout" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SmoothRefreshLayout" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../StaticLayoutView" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SuitLines" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SwipeRecyclerView" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../WilliamChart" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../bilisoleil" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../blurkit-android" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../flexbox-layout" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../giffun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hellocharts-android" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../material-code-input" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sonic-android" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vlayout" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../work_Jack/xuancililiao/xuancililiao" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="80" />
+    <option name="y" value="-8" />
+    <option name="width" value="1848" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AndroidStandardDevelop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndroidStandardDevelop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projects" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="632dbeb1-4955-4e9e-8a18-4933cd405e59" name="Default Changelist" comment="" />
+      <created>1555570809238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555570809238</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="80" y="-8" width="1848" height="1096" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.32997763" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32952183" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Android WiFi ADB" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Codota" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30294117" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
